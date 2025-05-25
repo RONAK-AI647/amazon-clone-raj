@@ -1,0 +1,255 @@
+*{
+    padding:0px;
+    margin:0px;}
+
+  #nav_bar{
+    width:100%;
+    height:60px;
+    background-color: #0f1111;
+    display:inline-flex;
+    justify-content: space-evenly;
+}  
+#amazon_logo{
+    background-color: #007185;
+    background-image: url(amazon_logo.jpeg);
+    background-size: cover;
+    height:50px;
+    width:130px;
+    margin:1px;
+    padding: 1px 8px 0px 6px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 14px;
+}
+#location{
+    height:50px;
+    width:120px;
+    margin:5px 2px 5px 0px;
+    padding:0px 9px;
+    display:inline-block;
+    
+}
+#address{
+    height:13px;
+    width:159px;
+    color:#cccccc;
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    
+}
+#country{
+    color:#ffffff;
+    width:50px;
+    height:14px;
+    font-size: 14;
+    padding:0px 0px 1px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+#search_bar{
+    background-color:#0f1111;
+    width:600px;
+   
+   display:flex;
+    font-size: 14px;
+    margin:0px 6px;
+    padding:10px 4px 10px 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    border:none;
+    
+}
+.panel{
+    width:600px;
+    height:35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:#0f1111;
+    background-color: #ffffff;
+    border:none;
+    
+#search_bar:hover{border:2px solid orange;}
+    
+}
+#all{width:40px;
+    height:35px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius:5px;
+    border:none;
+
+
+}
+#magnify{
+    background-color: rgb(232, 192, 98);
+    height:35px;
+    width:35px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    border-top-right-radius:5px;
+    border-bottom-right-radius:5px;
+
+    
+
+    }
+    #loc{
+        background-color:white;
+        width:20px;
+        padding:1px;
+        text-align: center;
+        display:flex;
+        justify-content: center;
+            
+    }
+    #adjust{
+        display:flex
+    }
+    #language{
+        width:50px;
+        height:35px;
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+
+        
+        padding-top: 10px;
+        display:flex;
+        text-align: center;
+    }
+   
+
+
+    select#en{
+        color:#0f1111;
+        width:65px;
+        height:35px;
+        font-size: 14px;
+        font-weight: 900;
+    }
+    .font1{
+        color:#ffffff;
+        font-size: 12px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .font2{ color:#ffffff;
+        font-size: 14px;
+        font-weight: 800;
+        
+
+
+    }
+    #cart{
+        color:white;
+        font-weight: 900;
+        font-size:14px;
+        padding-top: 30px;
+    
+    }
+    #cart_icon{
+        color:white;
+        width:38px;
+        height:26px;
+        font-size:2rem;
+    }
+    #cart_box{
+        width:84px;
+        height:50px;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #sign{
+        width:130px;
+        height:50px;
+        padding-top: 10px;
+        margin-left:60px;
+    }
+    #order{width:130px;
+        height:50px;
+        padding-top: 10px;
+        margin-left:50px;
+
+    }
+    #caret{
+        color:white;
+        display:flex;
+        justify-content: center;
+    }
+    #nav_bar2{
+        background-color: #232727;
+        height:40px;
+        display:flex;
+        justify-content: space-evenly;
+    }
+.beauty{
+    font-weight: 500;
+    font-size:15px;
+    color:white;
+    align-items: center;
+}
+#cheatbox{
+    color:white;
+    
+}
+#start{
+    width:58px;
+    height:18px;
+    display:flex;
+    font-size: 1rem;
+    margin:5px;
+    border:5px;
+}
+
+
+#hero{
+    background-image: url(hero_image.jpg);
+    height:600px;
+    background-size: cover;
+}
+#heroine{
+    padding-top: 300px;
+    display:flex;
+    margin:2px;
+    justify-content: space-evenly;
+}
+.box{
+    width:34%;
+    height:300px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: beige;
+}
+.box2{
+    background-image: url(box2.jpg);
+    height:300px;
+    width:400px;
+    background-size: cover;
+}
+box1{
+    background-image:url(titan_watch.jpeg);
+    background-size: cover;
+    height:300px;
+    width:400px;}
+
+#st{background-image:url(box1,3.jpg);
+}
+#nd{background-image: url(box1.1.jpg);}
+#rd{background-image:url(box1.2.jpg) ;}
+
+.photo{
+    width:150px;
+    height:250px;
+    margin:2px;
+    background-size: cover;
+    background-repeat: initial;
+}
+.box3{
+    display:flex;
+}
+.box1{
+    background-image:url(box5.jpg) ;
+    background-size: cover;
+    height:300px;
+    width:400px;
+}
